@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/PHASE_01-red?style=for-the-badge" /><br>
   └─ <i>Get Top 1 in the EMEA Google Cloud Competition April 2026 </i><br>
   <img src="https://img.shields.io/badge/PHASE_02-8b0000?style=for-the-badge" /><br>
-  └─ <i>Expend the area of learning & Release Math Research</i><br>
+  └─ <i>Expand the area of learning & Release Math Research</i><br>
   <img src="https://img.shields.io/badge/PHASE_03-4a0000?style=for-the-badge" /><br>
   └─ <i>Expand National/International Placements</i>
 </p>
