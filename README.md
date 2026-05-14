@@ -353,7 +353,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1260611097157832766)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Vendetaaaa)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-8116-6308)
-[![LinkedIn Request](https://img.shields.io/badge/LinkedIn-Request%20Access-blue?style=for-the-badge&logo=linkedin)](mailto:VZVendeta@hotmail.com?subject=LinkedIn%20Profile%20Request%20-%20[Your%20Name]&body=Hello%20Vendeta,%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20on%20LinkedIn.)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:VZVendeta@hotmail.com?subject=LinkedIn%20Request)
 
 
 </div>
