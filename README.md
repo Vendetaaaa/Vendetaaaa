@@ -43,9 +43,15 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4" align="center"><b>STEM</b></td>
-      <td align="center">🧪 Mathematics</td>
-      <td align="center">Independent Researcher & Olympiad</td>
+      <td rowspan="5" align="center"><b>STEM</b></td>
+      <td rowspan="2" align="center">🧪 Mathematics</td>
+      <td align="center">Independent Researcher</td>
+      <td align="center">1 month</td>
+      <td align="center"><b>Problem Solving & Materials</b></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td align="center">Olympiad</td>
       <td align="center">2+ years</td>
       <td align="center"><b>Regional Finalist</b></td>
       <td align="center"><a href="https://colegiulnegruzzi.ro/_multimedia/_uploads2026/olimpiadaMatematica/RepartizareCuSali.pdf">Link1</a>
@@ -63,7 +69,7 @@
       <td align="center">Olympiad</td>
       <td align="center">1 year</td>
       <td align="center"><b>Regional Finalist</b></td>
-      <td align="center"><a href="https://www.liis.ro/Documents/download/Repartizarea%20elevilor%20pe%20sali_OJCh_23_03_2024.pdf">Link1</a>
+      <td align="center"><a href="https://www.liis.ro/Documents/download/Repartizarea%20elevilor%20pe%20sali_OJCh_23_03_2024.pdf">Link1</a></td>
     </tr>
     <tr>
       <td align="center">⚛️ Physics</td>
@@ -108,17 +114,23 @@
       <td align="center"><a href="https://www.facebook.com/groups/1874698169479017/">Link1 (facebook)</a></td>
     </tr>
     <tr>
-      <td align="center"><b>Physical</b></td>
+      <td rowspan="2" align="center"><b>Physical</b></td>
       <td align="center">🤺 Fencing</td>
       <td align="center">Competitive</td>
       <td align="center">3 years</td>
       <td align="center"><b>Top 8 & 5 International</b></td>
       <td align="center">-</td>
     </tr>
+    <tr>
+      <td align="center">🏋️ Gym</td>
+      <td align="center">Strength & Conditioning</td>
+      <td align="center">1 year</td>
+      <td align="center"><b>Personal Fitness Goals</b></td>
+      <td align="center">-</td>
+    </tr>
   </tbody>
 </table>
 </div>
-</br>
 
 > Note: The official name has not been released to the public. To learn more, please contact the mail address provided.
 
