@@ -220,6 +220,11 @@
   <img src="Achievements/Microsoft/Microsoft (18).png" height="100" alt="Microsoft Achievement 18" />
 </p>
 
+#### Nvidia
+<p align="left">
+  <img src="Achievements/Nvidia/Nvidia (1).png" height="200" alt="Nvidia Achievement 1" />
+</p>
+
 <details>
   <summary><b>🔗 Links of verification: </b></summary>
     <p align="left">
@@ -250,6 +255,9 @@
       </br>
       <b>Microsoft</b>
       <p>Profile: https://learn.microsoft.com/en-us/users/vendeta-3552/</p>
+      </br>
+      <b>Nvidia</b>
+      <p>AI on Jetson Nano: https://learn.nvidia.com/certificates?id=41kayC9pS8GatP9VtJLIrQ</p>
   </details>
 </details>
 
