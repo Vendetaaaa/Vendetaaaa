@@ -195,7 +195,10 @@
   <img src="Achievements/Google/Google (19).png" height="100" alt="Google Achievement 19" />
   <img src="Achievements/Google/Google (20).png" height="100" alt="Google Achievement 20" />
   <img src="Achievements/Google/Google (21).png" height="100" alt="Google Achievement 21" />
-  <img src="Achievements/Google/Google (22).png" height="100" alt="Google Achievement 21" />
+  <img src="Achievements/Google/Google (22).png" height="100" alt="Google Achievement 22" />
+  <img src="Achievements/Google/Google (23).png" height="100" alt="Google Achievement 23" />
+  <img src="Achievements/Google/Google (24).png" height="100" alt="Google Achievement 24" />
+  <img src="Achievements/Google/Google (25).png" height="100" alt="Google Achievement 25" />
 </p>
 
 #### Microsoft
