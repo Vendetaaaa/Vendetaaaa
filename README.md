@@ -242,6 +242,11 @@
   <img src="Achievements/Nvidia/Nvidia (5).png" height="100" alt="Nvidia Achievement 5" />
 </p>
 
+#### HuggingFace
+<p align="left">
+  <img src="Achievements/HuggingFace/HuggingFace (1).jpeg" height="150" alt="HuggingFace Achievement 1" />
+</p>
+
 <details>
   <summary><b>🔗 Links of verification: </b></summary>
     <p align="left">
