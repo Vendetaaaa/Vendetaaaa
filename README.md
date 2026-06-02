@@ -143,7 +143,7 @@
 ├ SENZORIA participation
 * 📝 Mathematics Research: Publication in progress <br>
 ├ Start: 10th of April 2026 | First version done: 31st of May 2026
-* 💻 Web Development: Partnership project (Upcoming)
+* 💻 Web Development: Partnership project (Ongoing)
 
 </br>
 
