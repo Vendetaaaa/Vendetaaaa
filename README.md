@@ -239,6 +239,7 @@
   <img src="Achievements/Nvidia/Nvidia (2).png" height="100" alt="Nvidia Achievement 2" />
   <img src="Achievements/Nvidia/Nvidia (3).png" height="100" alt="Nvidia Achievement 3" />
   <img src="Achievements/Nvidia/Nvidia (4).png" height="100" alt="Nvidia Achievement 4" />
+  <img src="Achievements/Nvidia/Nvidia (5).png" height="100" alt="Nvidia Achievement 5" />
 </p>
 
 <details>
