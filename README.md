@@ -394,7 +394,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vendetaaaa&theme=dark&background=000000&fire=D00000&ring=D00000&sideNums=D00000&currStreakNum=D00000&sideLabels=ffffff&currStreakLabel=D00000&stroke=000000&hide_border=true" height="135" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vendetaaaa&theme=dark" height="135" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vendetaaaa&theme=dark" height="135" />
 </p>
