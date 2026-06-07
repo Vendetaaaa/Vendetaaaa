@@ -294,6 +294,10 @@
   <tr>
     <td align="left" style="padding: 20px; border: none;"><b>Languages</b></td>
     <td align="center" style="padding: 20px; border: none;">
+      <img src="https://cdn.simpleicons.org/rust/8b0000" width="50" alt="Rust" /><br />
+      <sub><b>RUST</b></sub>
+    </td>
+    <td align="center" style="padding: 20px; border: none;">
       <img src="https://cdn.simpleicons.org/cplusplus/8b0000" width="50" alt="C++" /><br />
       <sub><b>C++</b></sub>
     </td>
@@ -340,7 +344,7 @@
       <img src="https://cdn.simpleicons.org/nodedotjs/8b0000" width="50" alt="Node.js" /><br />
       <sub><b>NODE.JS</b></sub>
     </td>
-    <td align="center" style="padding: 20px; border: none;">
+    <td colspan="2" align="center" style="padding: 20px; border: none;">
       <img src="https://cdn.simpleicons.org/anthropic/8b0000" width="50" alt="Claude" /><br />
       <sub><b>CLAUDE</b></sub>
     </td>
@@ -367,7 +371,7 @@
       <img src="https://cdn.simpleicons.org/docker/8b0000" width="50" alt="Docker" /><br />
       <sub><b>DOCKER</b></sub>
     </td>
-    <td align="center" style="padding: 20px; border: none;">
+    <td colspan="2" align="center" style="padding: 20px; border: none;">
       <img src="https://cdn.simpleicons.org/git/8b0000" width="50" alt="Git" /><br />
       <sub><b>GIT</b></sub>
     </td>
@@ -394,14 +398,14 @@
       <img src="https://img.shields.io/badge/AWS-8b0000?style=flat&logo=amazonwebservices&logoColor=white" height="50" alt="AWS" /><br />
       <sub><b>AWS</b></sub>
     </td>
-    <td align="center" style="padding: 20px; border: none;">
+    <td colspan="2" align="center" style="padding: 20px; border: none;">
       <img src="https://cdn.simpleicons.org/pytorch/8b0000" width="50" alt="PyTorch" /><br />
       <sub><b>PYTORCH</b></sub>
     </td>
   </tr>
   <tr>
     <td align="left" style="padding: 20px; border: none;"><b>Documentation</b></td>
-    <td colspan="6" align="center" style="padding: 20px; border: none;">
+    <td colspan="7" align="center" style="padding: 20px; border: none;">
         <img src="https://cdn.simpleicons.org/latex/8b0000" width="50" alt="LaTeX" />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://cdn.simpleicons.org/markdown/8b0000" width="50" alt="Markdown" />
