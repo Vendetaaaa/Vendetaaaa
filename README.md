@@ -373,6 +373,33 @@
     </td>
   </tr>
   <tr>
+    <td align="left" style="padding: 20px; border: none;"><b>AI Platforms</b></td>
+    <td align="center" style="padding: 20px; border: none;">
+      <img src="https://cdn.simpleicons.org/googlegemini/8b0000" width="50" alt="Gemini" /><br />
+      <sub><b>GEMINI</b></sub>
+    </td>
+    <td align="center" style="padding: 20px; border: none;">
+      <img src="https://cdn.simpleicons.org/nvidia/8b0000" width="50" alt="NVIDIA" /><br />
+      <sub><b>NVIDIA</b></sub>
+    </td>
+    <td align="center" style="padding: 20px; border: none;">
+      <img src="https://cdn.simpleicons.org/huggingface/8b0000" width="50" alt="HuggingFace" /><br />
+      <sub><b>HF</b></sub>
+    </td>
+    <td align="center" style="padding: 20px; border: none;">
+      <img src="https://img.shields.io/badge/Azure-8b0000?style=flat&logo=microsoftazure&logoColor=white" height="50" alt="Azure" /><br />
+      <sub><b>AZURE</b></sub>
+    </td>
+    <td align="center" style="padding: 20px; border: none;">
+      <img src="https://img.shields.io/badge/AWS-8b0000?style=flat&logo=amazonwebservices&logoColor=white" height="50" alt="AWS" /><br />
+      <sub><b>AWS</b></sub>
+    </td>
+    <td align="center" style="padding: 20px; border: none;">
+      <img src="https://cdn.simpleicons.org/pytorch/8b0000" width="50" alt="PyTorch" /><br />
+      <sub><b>PYTORCH</b></sub>
+    </td>
+  </tr>
+  <tr>
     <td align="left" style="padding: 20px; border: none;"><b>Documentation</b></td>
     <td colspan="6" align="center" style="padding: 20px; border: none;">
         <img src="https://cdn.simpleicons.org/latex/8b0000" width="50" alt="LaTeX" />
@@ -394,8 +421,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vendetaaaa&theme=dark" height="135" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vendetaaaa&theme=dark" height="135" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vendetaaaa&theme=dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vendetaaaa&theme=dark" height="180" />
 </p>
 
 </br>
