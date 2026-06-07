@@ -191,6 +191,7 @@
   <img src="Achievements/Google/Google (10).png" height="100" alt="Google Achievement 10" />
   <img src="Achievements/Google/Google (11).png" height="100" alt="Google Achievement 11" />
   </br>
+  </br>
   <img src="Achievements/Google/Google (12).png" height="100" alt="Google Achievement 12" />
   <img src="Achievements/Google/Google (13).png" height="100" alt="Google Achievement 13" />
   <img src="Achievements/Google/Google (14).png" height="100" alt="Google Achievement 14" />
@@ -205,9 +206,19 @@
   <img src="Achievements/Google/Google (23).png" height="100" alt="Google Achievement 23" />
   <img src="Achievements/Google/Google (24).png" height="100" alt="Google Achievement 24" />
   <img src="Achievements/Google/Google (25).png" height="100" alt="Google Achievement 25" />
+  </br>
+  </br>
   <img src="Achievements/Google/Google (26).png" height="100" alt="Google Achievement 26" />
   <img src="Achievements/Google/Google (27).png" height="100" alt="Google Achievement 27" />
   <img src="Achievements/Google/Google (28).png" height="100" alt="Google Achievement 28" />
+  </br>
+  </br>
+  <img src="Achievements/Google/Google (29).png" height="100" alt="Google Achievement 29" />
+  <img src="Achievements/Google/Google (30).png" height="100" alt="Google Achievement 30" />
+  <img src="Achievements/Google/Google (31).png" height="100" alt="Google Achievement 31" />
+  <img src="Achievements/Google/Google (32).png" height="100" alt="Google Achievement 32" />
+  <img src="Achievements/Google/Google (33).png" height="100" alt="Google Achievement 33" />
+  <img src="Achievements/Google/Google (34).png" height="100" alt="Google Achievement 34" />
 </p>
 
 #### Microsoft
