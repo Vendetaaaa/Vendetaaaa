@@ -46,7 +46,7 @@
       <td rowspan="5" align="center"><b>STEM</b></td>
       <td rowspan="2" align="center">🧪 Mathematics</td>
       <td align="center">Independent Researcher</td>
-      <td align="center">1 month</td>
+      <td align="center">3+ months</td>
       <td align="center"><b>Problem Solving & Materials</b></td>
       <td align="center">-</td>
     </tr>
