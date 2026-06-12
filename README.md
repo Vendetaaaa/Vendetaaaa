@@ -329,8 +329,39 @@
       <sub><b>TS</b></sub>
     </td>
     <td align="center" style="padding: 20px; border: none;">
+      <img src="https://cdn.simpleicons.org/go/8b0000" width="50" alt="Go" /><br />
+      <sub><b>GOLANG</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 20px; border: none;"><b>Web Development</b></td>
+    <td align="center" style="padding: 20px; border: none;">
       <img src="https://cdn.simpleicons.org/html5/8b0000" width="50" alt="HTML5" /><br />
       <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" style="padding: 20px; border: none;">
+      <img src="https://img.shields.io/badge/Css3-8b0000?style=flat&logo=css3&logoColor=white" height="50" alt="CSS3" /><br />
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" style="padding: 20px; border: none;">
+      <img src="https://cdn.simpleicons.org/react/8b0000" width="50" alt="React" /><br />
+      <sub><b>REACT</b></sub>
+    </td>
+    <td align="center" style="padding: 20px; border: none;">
+      <img src="https://cdn.simpleicons.org/nodedotjs/8b0000" width="50" alt="Node.js" /><br />
+      <sub><b>NODE.JS</b></sub>
+    </td>
+    <td align="center" style="padding: 20px; border: none;">
+      <img src="https://cdn.simpleicons.org/threedotjs/8b0000" width="50" alt="Three.js" /><br />
+      <sub><b>THREE.JS</b></sub>
+    </td>
+    <td align="center" style="padding: 20px; border: none;">
+      <img src="https://cdn.simpleicons.org/vuedotjs/8b0000" width="50" alt="Vue.js" /><br />
+      <sub><b>VUE</b></sub>
+    </td>
+    <td align="center" style="padding: 20px; border: none;">
+      <img src="https://cdn.simpleicons.org/ruby/8b0000" width="50" alt="Ruby" /><br />
+      <sub><b>RUBY</b></sub>
     </td>
   </tr>
   <tr>
@@ -338,10 +369,6 @@
     <td align="center" style="padding: 20px; border: none;">
       <img src="https://cdn.simpleicons.org/tailwindcss/8b0000" width="50" alt="Tailwind CSS" /><br />
       <sub><b>TAILWIND</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/react/8b0000" width="50" alt="React" /><br />
-      <sub><b>REACT</b></sub>
     </td>
     <td align="center" style="padding: 20px; border: none;">
       <img src="https://cdn.simpleicons.org/nextdotjs/8b0000" width="50" alt="Next.js" /><br />
@@ -352,13 +379,10 @@
       <sub><b>VERCEL</b></sub>
     </td>
     <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/nodedotjs/8b0000" width="50" alt="Node.js" /><br />
-      <sub><b>NODE.JS</b></sub>
-    </td>
-    <td colspan="2" align="center" style="padding: 20px; border: none;">
       <img src="https://cdn.simpleicons.org/anthropic/8b0000" width="50" alt="Claude" /><br />
       <sub><b>CLAUDE</b></sub>
     </td>
+    <td colspan="3" style="border: none;"></td>
   </tr>
   <tr>
     <td align="left" style="padding: 20px; border: none;"><b>Backend & Tools</b></td>
@@ -382,9 +406,13 @@
       <img src="https://cdn.simpleicons.org/docker/8b0000" width="50" alt="Docker" /><br />
       <sub><b>DOCKER</b></sub>
     </td>
-    <td colspan="2" align="center" style="padding: 20px; border: none;">
+    <td align="center" style="padding: 20px; border: none;">
       <img src="https://cdn.simpleicons.org/git/8b0000" width="50" alt="Git" /><br />
       <sub><b>GIT</b></sub>
+    </td>
+    <td align="center" style="padding: 20px; border: none;">
+      <img src="https://cdn.simpleicons.org/gnu/8b0000" width="50" alt="Makefile" /><br />
+      <sub><b>MAKEFILE</b></sub>
     </td>
   </tr>
   <tr>
@@ -409,9 +437,13 @@
       <img src="https://img.shields.io/badge/AWS-8b0000?style=flat&logo=amazonwebservices&logoColor=white" height="50" alt="AWS" /><br />
       <sub><b>AWS</b></sub>
     </td>
-    <td colspan="2" align="center" style="padding: 20px; border: none;">
+    <td align="center" style="padding: 20px; border: none;">
       <img src="https://cdn.simpleicons.org/pytorch/8b0000" width="50" alt="PyTorch" /><br />
       <sub><b>PYTORCH</b></sub>
+    </td>
+    <td align="center" style="padding: 20px; border: none;">
+      <img src="https://cdn.simpleicons.org/gnubash/8b0000" width="50" alt="Shell" /><br />
+      <sub><b>SHELL</b></sub>
     </td>
   </tr>
   <tr>
