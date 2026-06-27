@@ -150,8 +150,8 @@
 ### 🏆 Certification Gallery
 <details>
   <summary>🏆 Press here to view the <b>HALL OF FAME</b></summary>
-  <img src="Achievements/Google/Google HOF (1).png" height="200" alt="Google Achievement HOF 1" />
-  <img src="Achievements/Google/Google HOF (2).png" height="200" alt="Google Achievement HOF 1" />
+  <img src="Achievements/Google/Google HOF (1).png" height="250" alt="Google Achievement HOF 1" />
+  <img src="Achievements/Google/Google HOF (2).png" height="250" alt="Google Achievement HOF 1" />
 </details>
 <details>
   <summary>🥇 Press here to view the credentials:</summary>
