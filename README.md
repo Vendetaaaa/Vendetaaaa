@@ -139,7 +139,7 @@
 # 🙌 Achievements & Roadmap (2026-2027)
 * 🏆 European University Challenge (April 2026): Placed 3/1072 with World Record (Completed)
 * 🏆 European University Challenge (May 2026): Placed 3/1347 (Completed)
-* 🏆 European University Challange (June 2026): (Ongoing)
+* 🏆 European University Challange (June 2026): Placed 3/1139 (Completed)
 * 🤖 Robozzi Robotics Club: Preparation for entry (Ongoing) <br>
 ├ SENZORIA participation
 * 📝 Mathematics Research: Publication in progress <br>
