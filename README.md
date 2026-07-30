@@ -305,163 +305,96 @@
 # 🩸 Tech Stack
 
 <div align="center">
-<table style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse;">
   <tr>
-    <td align="left" style="padding: 20px; border: none;"><b>Languages</b></td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/rust/8b0000" width="50" alt="Rust" /><br />
-      <sub><b>RUST</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/cplusplus/8b0000" width="50" alt="C++" /><br />
-      <sub><b>C++</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/openjdk/8b0000" width="50" alt="Java" /><br />
-      <sub><b>JAVA</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/python/8b0000" width="50" alt="Python" /><br />
-      <sub><b>PYTHON</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/javascript/8b0000" width="50" alt="JavaScript" /><br />
-      <sub><b>JS</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/typescript/8b0000" width="50" alt="TypeScript" /><br />
-      <sub><b>TS</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/go/8b0000" width="50" alt="Go" /><br />
-      <sub><b>GOLANG</b></sub>
-    </td>
+    <td align="left" style="padding: 16px; white-space: nowrap;"><b>Web Development</b></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/html5/8b0000" width="40" alt="HTML5" /><br /><sub><b>HTML5</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/css/8b0000" width="40" alt="CSS" /><br /><sub><b>CSS</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/react/8b0000" width="40" alt="React" /><br /><sub><b>REACT</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/vuedotjs/8b0000" width="40" alt="Vue" /><br /><sub><b>VUE.JS</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/threedotjs/8b0000" width="40" alt="Three" /><br /><sub><b>THREE.JS</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/animedotjs/8b0000" width="40" alt="Anime" /><br /><sub><b>ANIME.JS</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/nodedotjs/8b0000" width="40" alt="Node" /><br /><sub><b>NODE.JS</b></sub></td>
+  </tr>
+
+  <tr>
+    <td align="left" rowspan="2" style="padding: 16px; white-space: nowrap;"><b>Languages</b></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/c/8b0000" width="40" alt="C" /><br /><sub><b>C</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/cplusplus/8b0000" width="40" alt="C++" /><br /><sub><b>C++</b></sub></td>
+    <td align="center" style="padding: 16px;"><div style="width:40px; height:40px; display:flex; align-items:center; justify-content:center; color:#8b0000; font-size:11px; font-weight:bold;">[NO ICON]</div><sub><b>C#</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/javascript/8b0000" width="40" alt="JavaScript" /><br /><sub><b>JS</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/typescript/8b0000" width="40" alt="TypeScript" /><br /><sub><b>TS</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/php/8b0000" width="40" alt="php" /><br /><sub><b>PHP</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/rust/8b0000" width="40" alt="Rust" /><br /><sub><b>RUST</b></sub></td>
   </tr>
   <tr>
-    <td align="left" style="padding: 20px; border: none;"><b>Web Development</b></td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/html5/8b0000" width="50" alt="HTML5" /><br />
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://img.shields.io/badge/Css3-8b0000?style=flat&logo=css3&logoColor=white" height="50" alt="CSS3" /><br />
-      <sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/react/8b0000" width="50" alt="React" /><br />
-      <sub><b>REACT</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/nodedotjs/8b0000" width="50" alt="Node.js" /><br />
-      <sub><b>NODE.JS</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/threedotjs/8b0000" width="50" alt="Three.js" /><br />
-      <sub><b>THREE.JS</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/vuedotjs/8b0000" width="50" alt="Vue.js" /><br />
-      <sub><b>VUE</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/ruby/8b0000" width="50" alt="Ruby" /><br />
-      <sub><b>RUBY</b></sub>
-    </td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/go/8b0000" width="40" alt="Go" /><br /><sub><b>GOLANG</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/openjdk/8b0000" width="40" alt="Java" /><br /><sub><b>JAVA</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/kotlin/8b0000" width="40" alt="Kotlin" /><br /><sub><b>KOTLIN</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/python/8b0000" width="40" alt="Python" /><br /><sub><b>PYTHON</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/ruby/8b0000" width="40" alt="Ruby" /><br /><sub><b>RUBY</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/r/8b0000" width="40" alt="R" /><br /><sub><b>R</b></sub></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td align="left" rowspan="2" style="padding: 16px; white-space: nowrap;"><b>OS & Scripting</b></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/linux/8b0000" width="40" alt="Linux" /><br /><sub><b>LINUX</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/gnubash/8b0000" width="40" alt="Shell/Bash" /><br /><sub><b>BASH</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/zsh/8b0000" width="40" alt="Zsh" /><br /><sub><b>ZSH</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/fishshell/8b0000" width="40" alt="FishShell" /><br /><sub><b>FISHSHELL</b></sub></td>
+    <td align="center" style="padding: 16px;"><div style="width:40px; height:40px; display:flex; align-items:center; justify-content:center; color:#8b0000; font-size:11px; font-weight:bold;">[NO ICON]</div><sub><b>CMD</b></sub></td>
+    <td align="center" style="padding: 16px;"><div style="width:40px; height:40px; display:flex; align-items:center; justify-content:center; color:#8b0000; font-size:11px; font-weight:bold;">[NO ICON]</div><sub><b>POWERSHELL</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/gnome/8b0000" width="40" alt="Gnome" /><br /><sub><b>GNOME</b></sub></td>
   </tr>
   <tr>
-    <td align="left" style="padding: 20px; border: none;"><b>Frontend & AI</b></td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/tailwindcss/8b0000" width="50" alt="Tailwind CSS" /><br />
-      <sub><b>TAILWIND</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/nextdotjs/8b0000" width="50" alt="Next.js" /><br />
-      <sub><b>NEXT.JS</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/vercel/8b0000" width="50" alt="Vercel" /><br />
-      <sub><b>VERCEL</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/anthropic/8b0000" width="50" alt="Claude" /><br />
-      <sub><b>CLAUDE</b></sub>
-    </td>
-    <td colspan="3" style="border: none;"></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/alacritty/8b0000" width="40" alt="Alacritty" /><br /><sub><b>ALACRITTY</b></sub></td>
+    <td colspan="6"></td>
+  </tr>
+
+  <tr>
+    <td align="left" style="padding: 16px; white-space: nowrap;"><b>Backend & Databases</b></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/postgresql/8b0000" width="40" alt="PostgreSQL" /><br /><sub><b>POSTGRESQL</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/mysql/8b0000" width="40" alt="MySQL" /><br /><sub><b>MYSQL</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/mongodb/8b0000" width="40" alt="MongoDB" /><br /><sub><b>MONGODB</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/redis/8b0000" width="40" alt="Redis" /><br /><sub><b>REDIS</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/graphql/8b0000" width="40" alt="GraphQL" /><br /><sub><b>GRAPHQL</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/django/8b0000" width="40" alt="Django" /><br /><sub><b>DJANGO</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/spring/8b0000" width="40" alt="Spring" /><br /><sub><b>SPRING</b></sub></td>
+  </tr>
+
+  <tr>
+    <td align="left" style="padding: 16px; white-space: nowrap;"><b>Tooling & DevOps</b></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/cmake/8b0000" width="40" alt="CMake" /><br /><sub><b>CMAKE</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/gnu/8b0000" width="40" alt="Makefile" /><br /><sub><b>MAKEFILE</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/apachemaven/8b0000" width="40" alt="Maven" /><br /><sub><b>MAVEN</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/npm/8b0000" width="40" alt="npm" /><br /><sub><b>NPM</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/docker/8b0000" width="40" alt="Docker" /><br /><sub><b>DOCKER</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/markdown/8b0000" width="40" alt="Markdown" /><br /><sub><b>MARKDOWN</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/latex/8b0000" width="40" alt="LaTeX" /><br /><sub><b>LATEX</b></sub></td>
+  </tr>
+
+  <tr>
+    <td align="left" rowspan="2" style="padding: 16px; white-space: nowrap;"><b>AI & LLM Infrastructure</b></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/ollama/8b0000" width="40" alt="Ollama" /><br /><sub><b>OLLAMA</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/vllm/8b0000" width="40" alt="vLLM" /><br /><sub><b>VLLM</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/onnx/8b0000" width="40" alt="ONNX" /><br /><sub><b>ONNX</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/deepseek/8b0000" width="40" alt="DeepSeek" /><br /><sub><b>DEEPSEEK</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/mistralai/8b0000" width="40" alt="Mistral AI" /><br /><sub><b>MISTRAL</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/claude/8b0000" width="40" alt="Claude" /><br /><sub><b>CLAUDE</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/qdrant/8b0000" width="40" alt="Qdrant" /><br /><sub><b>QDRANT</b></sub></td>
   </tr>
   <tr>
-    <td align="left" style="padding: 20px; border: none;"><b>Backend & Tools</b></td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/googlecloud/8b0000" width="50" alt="GCP" /><br />
-      <sub><b>GCP</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/supabase/8b0000" width="50" alt="Supabase" /><br />
-      <sub><b>SUPABASE</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/postgresql/8b0000" width="50" alt="PostgreSQL" /><br />
-      <sub><b>POSTGRES</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/mysql/8b0000" width="50" alt="MySQL" /><br />
-      <sub><b>MYSQL</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/docker/8b0000" width="50" alt="Docker" /><br />
-      <sub><b>DOCKER</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/git/8b0000" width="50" alt="Git" /><br />
-      <sub><b>GIT</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/gnu/8b0000" width="50" alt="Makefile" /><br />
-      <sub><b>MAKEFILE</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" style="padding: 20px; border: none;"><b>AI Platforms</b></td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/googlegemini/8b0000" width="50" alt="Gemini" /><br />
-      <sub><b>GEMINI</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/nvidia/8b0000" width="50" alt="NVIDIA" /><br />
-      <sub><b>NVIDIA</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/huggingface/8b0000" width="50" alt="HuggingFace" /><br />
-      <sub><b>HF</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://img.shields.io/badge/Azure-8b0000?style=flat&logo=microsoftazure&logoColor=white" height="50" alt="Azure" /><br />
-      <sub><b>AZURE</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://img.shields.io/badge/AWS-8b0000?style=flat&logo=amazonwebservices&logoColor=white" height="50" alt="AWS" /><br />
-      <sub><b>AWS</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/pytorch/8b0000" width="50" alt="PyTorch" /><br />
-      <sub><b>PYTORCH</b></sub>
-    </td>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://cdn.simpleicons.org/gnubash/8b0000" width="50" alt="Shell" /><br />
-      <sub><b>SHELL</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" style="padding: 20px; border: none;"><b>Documentation</b></td>
-    <td colspan="7" align="center" style="padding: 20px; border: none;">
-        <img src="https://cdn.simpleicons.org/latex/8b0000" width="50" alt="LaTeX" />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://cdn.simpleicons.org/markdown/8b0000" width="50" alt="Markdown" />
-        <br />
-        <sub><b>LATEX & MARKDOWN</b></sub>
-    </td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/tensorflow/8b0000" width="40" alt="TensorFlow" /><br /><sub><b>TENSORFLOW</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/weightsandbiases/8b0000" width="40" alt="Weights & Biases" /><br /><sub><b>W&B</b></sub></td>
+    <td align="center" style="padding: 16px;"><div style="width:40px; height:40px; display:flex; align-items:center; justify-content:center; color:#8b0000; font-size:11px; font-weight:bold;">[NO ICON]</div><sub><b>MATHLAB</b></sub></td>
+    <td align="center" style="padding: 16px;"><img src="https://cdn.simpleicons.org/eclipsevertdotx/8b0000" width="40" alt="EclipseVertex" /><br /><sub><b>ECLIPSEVERTEX</b></sub></td>
+    <td colspan="3"></td>
   </tr>
 </table>
 </div>
+
+> Note: The **[NO ICON]** placeholder means the website does not provide an icon for the respective tool.
 
 </br>
 
