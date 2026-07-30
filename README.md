@@ -137,14 +137,25 @@
 </br>
 
 # 🙌 Achievements & Roadmap (2026-2027)
-* 🏆 European University Challenge (April 2026): Placed 3/1072 with World Record (Completed)
-* 🏆 European University Challenge (May 2026): Placed 3/1347 (Completed)
-* 🏆 European University Challange (June 2026): Placed 3/1139 (Completed)
-* 🤖 Robozzi Robotics Club: Preparation for entry (Ongoing) <br>
+
+<details>
+<summary>🏆 Press here to view: European Univeristy Challange </summary>
+  
+  ### 🏆 European University Challange (March - June 2026): ?/5100+ (Ongoing)
+  * European University Challenge (April 2026): Placed 3/1072 with World Record (Completed)
+  * European University Challenge (May 2026): Placed 3/1347 (Completed)
+  * European University Challange (June 2026): Placed 3/1139 (Completed)
+
+---
+
+</details>
+
+* 🤖 Robotics Club: Preparation for entry (Ongoing) <br>
 ├ SENZORIA participation
 * 📝 Mathematics Research: Publication in progress <br>
 ├ Start: 10th of April 2026 | First version done: 31st of May 2026 | In evaluation
 * ⚙️ Currently diving deeper into CyberSecurity
+* 🥹 Founding School Club (Ongoing/Preparing)
 
 </br>
 
