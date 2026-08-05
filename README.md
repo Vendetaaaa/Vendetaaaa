@@ -155,7 +155,7 @@
 * 📝 Mathematics Research: Publication in progress <br>
 ├ Start: 10th of April 2026 | First version done: 31st of May 2026 | In evaluation
 * ⚙️ Currently diving deeper into CyberSecurity
-* 🥹 Founding School Club (Ongoing/Preparing)
+* 📍 Founded [NegruzziHub](https://github.com/NegruzziHub)
 
 </br>
 
