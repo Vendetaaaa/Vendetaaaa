@@ -141,7 +141,7 @@
 <details>
 <summary>🏆 Press here to view: European Univeristy Challange </summary>
   
-  ### 🏆 European University Challange (March - June 2026): ?/5100+ (Ongoing)
+  ### 🏆 European University Challange (March - June 2026): In the top 50 with Tier I (Completed)
   * European University Challenge (April 2026): Placed 3/1072 with World Record (Completed)
   * European University Challenge (May 2026): Placed 3/1347 (Completed)
   * European University Challange (June 2026): Placed 3/1139 (Completed)
