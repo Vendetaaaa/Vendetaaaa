@@ -412,7 +412,7 @@
 # 📊 System Performance
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vendetaaaa&theme=react-dark&bg_color=000000&color=D00000&line=D00000&point=ffffff&hide_border=true" alt="Vendeta's Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vendetaaaa&theme=dark&animation=fade" />
 </p>
 
 <p align="center">
