@@ -132,8 +132,6 @@
 </table>
 </div>
 
-> Note: The official name has not been released to the public. To learn more, please contact the mail address provided.
-
 </br>
 
 # 🙌 Achievements & Roadmap (2026-2027)
