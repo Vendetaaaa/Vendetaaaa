@@ -151,7 +151,7 @@
 * 🤖 Robotics Club: Preparation for entry (Ongoing) <br>
 ├ SENZORIA participation
 * 📝 Mathematics Research: Publication in progress <br>
-├ Start: 10th of April 2026 | First version done: 31st of May 2026 | In evaluation
+├ Start: 10th of April 2026 | First version done: 31st of May 2026 | Feedback |
 * ⚙️ Currently diving deeper into CyberSecurity
 * 📍 Founded [NegruzziHub](https://github.com/NegruzziHub)
 
