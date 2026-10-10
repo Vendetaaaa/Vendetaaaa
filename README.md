@@ -134,6 +134,10 @@
 
 </br>
 
+<div align="center">
+  These results are from 5-12th grade
+</div>
+
 # 🙌 Achievements & Roadmap (2026-2027)
 
 <details>
