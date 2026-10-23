@@ -152,6 +152,7 @@
 
 </details>
 
+* ©️©️©️ CloudFlight Coding Contest: 390/7000 overall on #school track 42th edition
 * 🤖 Robotics Club: Preparation for entry (Ongoing) <br>
 ├ SENZORIA participation
 * 📝 Mathematics Research: Publication in progress <br>
