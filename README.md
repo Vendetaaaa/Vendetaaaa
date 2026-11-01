@@ -124,8 +124,8 @@
     <tr>
       <td align="center">🏋️ Gym</td>
       <td align="center">Strength & Conditioning</td>
-      <td align="center">1 year</td>
-      <td align="center"><b>Personal Fitness Goals</b></td>
+      <td align="center">2 year</td>
+      <td align="center"><b>305lbs Deadlift & 100lbs pull up</b></td>
       <td align="center">-</td>
     </tr>
   </tbody>
