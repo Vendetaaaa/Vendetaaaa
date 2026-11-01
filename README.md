@@ -431,7 +431,6 @@
 [![Mail](https://img.shields.io/badge/Mail-D12424?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:VZVendeta@hotmail.com)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Vendetaaaa)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-8116-6308)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:VZVendeta@hotmail.com?subject=LinkedIn%20Request)
 
 
 </div>
