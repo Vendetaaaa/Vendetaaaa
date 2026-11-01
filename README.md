@@ -46,8 +46,8 @@
       <td rowspan="5" align="center"><b>STEM</b></td>
       <td rowspan="2" align="center">🧪 Mathematics</td>
       <td align="center">Independent Researcher</td>
-      <td align="center">5+ months</td>
-      <td align="center"><b>Problem Solving & Materials</b></td>
+      <td align="center">8+ months</td>
+      <td align="center"><b>Gold Metal at RoSEF National</b></td>
       <td align="center">-</td>
     </tr>
     <tr>
@@ -59,7 +59,7 @@
     </tr>
     <tr>
       <td align="center">💻 Computing</td>
-      <td align="center">Full Stack Web Development</td>
+      <td align="center">Computer Science</td>
       <td align="center">3+ years</td>
       <td align="center"><b>Cloud Specialist</b></td>
       <td align="center">-</td>
@@ -110,7 +110,7 @@
       <td align="center">🎨 Arts</td>
       <td align="center">Competition</td>
       <td align="center">2 months</td>
-      <td align="center">Double Top 1 Regionally (Ongoing)</td>
+      <td align="center">Top 1 respectively 2 Regionally (Ongoing)</td>
       <td align="center"><a href="https://www.facebook.com/groups/1874698169479017/">Link1 (facebook)</a></td>
     </tr>
     <tr>
