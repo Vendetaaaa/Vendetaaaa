@@ -158,7 +158,6 @@
 * 📝 Mathematics Research: Publication in progress <br>
 ├ Start: 10th of April 2026 | First version done: 31st of May 2026 | Feedback |
 * ⚙️ Currently diving deeper into CyberSecurity
-* 📍 Founded [NegruzziHub](https://github.com/NegruzziHub)
 
 </br>
 
