@@ -47,8 +47,8 @@
       <td rowspan="2" align="center">🧪 Mathematics</td>
       <td align="center">Independent Researcher</td>
       <td align="center">8+ months</td>
-      <td align="center"><b>Gold Metal at RoSEF National</b></td>
-      <td align="center">-</td>
+      <td align="center"><b>Gold Metal at RoSEF National (100/100)</b></td>
+      <td align="center"><a href="https://cygnus.org.ro/">Link1</a></td>
     </tr>
     <tr>
       <td align="center">Olympiad</td>
