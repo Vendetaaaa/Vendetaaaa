@@ -155,7 +155,6 @@
 * ©️©️©️ CloudFlight Coding Contest: 390/7100+ overall on #school track 42th edition
 * 🤖 Robotics Club - programmer <br>
 ├ SENZORIA participation
-
 ├ "Noaptea Cercetătorilor" participation
 * 📝 Mathematics Research <br>
 ├ Start: 10th of April 2026 | First version done: 31st of May 2026 | Feedback |
